@@ -11,7 +11,7 @@ function App() {
   <a href="mailto:mimithaprabodani@gmail.com" className="hover:underline">mimithaprabodani@gmail.com</a> | 
   <a href="https://www.linkedin.com/in/mimitha-prabodani-22b54134a" target="_blank" rel="noopener noreferrer" className="hover:underline">LinkedIn</a> | 
   <a href="https://github.com/MimithaPC" target="_blank" rel="noopener noreferrer" className="hover:underline">GitHub</a> | 
-  <a href="https://yourportfolio.com" target="_blank" rel="noopener noreferrer" className="hover:underline">Portfolio</a>
+  <a href="https://github.com/MimithaPC/My_Portfolio" target="_blank" rel="noopener noreferrer" className="hover:underline">Portfolio</a>
 </h1>
             </div>
              <hr></hr>
