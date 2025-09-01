@@ -1,10 +1,11 @@
 import MyPhoto from '../assets/MyPhoto.jpg'; 
 import Github from '../assets/Github.png'; 
 import Linkedin from '../assets/Linkedin.png'; 
+import CV from '../assets/CV.pdf'; 
 
 function Home() {
 
-    return (
+    return (   
 
         <div className="py-6 px-20 flex gap-12">
 
@@ -15,7 +16,7 @@ function Home() {
             <div>
                 
                 <h1 className='text-4xl font-bold py-14'>Hello, Welcome to my portfolio website!</h1>
-                <h1 className='text-2xl py-3 pl-16 '>I'm Mimitha Probodani Chandrarathna.</h1>
+                <h1 className='text-2xl py-3 pl-16'>I'm Mimitha Probodani Chandrarathna.</h1>
                 <h1 className='text-2xl py-3 pl-16'>I'm an Aspiring Software Developer.</h1>
                 <h1 className='text-2xl py-3 pl-16'>IT Undergraduate eager to learn, build, and contribute to real-world software projects.</h1>
                 
@@ -28,7 +29,7 @@ function Home() {
                     </a>
                 </div>
 
-                <button className='cursor-pointer hover:scale-110 text-2xl my-3 ml-16 bg-blue-700 p-6 border-rounded text-white not-visited'>Download CV</button>
+                <a href={CV}  download="Mimitha_Probodani_CV.pdf" className='cursor-pointer hover:scale-110 text-2xl my-3 ml-16 rounded-full bg-blue-700 p-4 text-white not-visited'>Download CV</a>
 
             </div>
 

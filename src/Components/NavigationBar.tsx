@@ -21,6 +21,10 @@ function NavigationBar() {
                 </div>
 
                 <div>
+                    <Link to="/skills">Skills</Link>
+                </div>
+
+                <div>
                     <Link to="/projects">Projects</Link>
                 </div>
 
