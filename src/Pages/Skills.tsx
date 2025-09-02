@@ -2,7 +2,7 @@ function Skills() {
 
 	return (
 
-		<div>
+		<div className="pb-14">
 
 			<div>
 				<h1 className="text-center text-4xl font-bold py-14">Hard skills</h1>
@@ -21,7 +21,7 @@ function Skills() {
 				<h1 className="text-center text-4xl font-bold py-14">Soft skills</h1>
 			</div>
 
-			<div className="text-2xl pl-80 font-bold pb-12">
+			<div className="text-2xl pl-80 font-bold">
 				<h1 className="p-4">- Good communication and teamwork abilities</h1>
 				<h1 className="p-4">- Strong problem-solving and debugging skills</h1>
 				<h1 className="p-4">- Willingness to learn and adapt to new technologies</h1>

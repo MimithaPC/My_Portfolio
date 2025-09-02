@@ -7,7 +7,7 @@ function Home() {
 
     return (   
 
-        <div className="py-6 px-20 flex gap-12">
+        <div className="py-6 px-20 flex gap-12 pb-14">
 
             <div>
                 <img src={MyPhoto} alt="MyPhoto" className='rounded-full w-[500px] h-[500px]'/>
@@ -33,12 +33,9 @@ function Home() {
 
             </div>
 
-    </div>
+        </div>
 
-    
-
-
-  )
+    )
   
 }
 

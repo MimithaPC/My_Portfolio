@@ -2,7 +2,7 @@ function Qualifications() {
 
 	return (
 
-		<div>
+		<div className="pb-14">
 		       
 			<h1 className="text-center text-4xl font-bold py-14">Qualifications</h1>
 
@@ -17,7 +17,7 @@ function Qualifications() {
 						</div>
 
 						<div className="pl-28">
-							<h1 className="text-2xl">(2023 – Present)</h1>
+							<h1 className="text-2xl">[2023 – Present]</h1>
 						</div>
 
 					</div>
@@ -38,7 +38,7 @@ function Qualifications() {
 						</div>
 
 						<div className="pl-72">
-							<h1 className="text-2xl">(November 2023)</h1>
+							<h1 className="text-2xl">[November 2023]</h1>
 						</div>
 
 					</div>
@@ -59,7 +59,7 @@ function Qualifications() {
 						</div>
 						
 						<div className="pl-40">
-							<h1 className="text-2xl">(November 2021)</h1>
+							<h1 className="text-2xl">[November 2021]</h1>
 						</div>
 
 					</div>
@@ -81,7 +81,7 @@ function Qualifications() {
 						</div>
 
 						<div className="pl-24">
-							<h1 className="text-2xl">(September 2020)</h1>
+							<h1 className="text-2xl">[September 2020]</h1>
 						</div>
 
 					</div>
@@ -103,7 +103,7 @@ function Qualifications() {
 						</div>
 						
 						<div className="pl-80">
-							<h1 className="text-2xl">(August 2020)</h1>
+							<h1 className="text-2xl">[August 2020]</h1>
 						</div>
 							
 					</div>
@@ -120,11 +120,11 @@ function Qualifications() {
 					<div className="flex">
 
 						<div>
-							<h1 className="text-2xl font-bold">- General Certificate of Education (A/L) Examination,</h1>
+							<h1 className="text-2xl font-bold">- General Certificate of Education [A/L] Examination,</h1>
 						</div>
 						
 						<div className="pl-28">
-							<h1 className="text-2xl">(May 2018)</h1>
+							<h1 className="text-2xl">[May 2018]</h1>
 						</div>
 
 					</div>

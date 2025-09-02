@@ -10,7 +10,7 @@ function NavigationBar() {
                 <h1>Mimitha</h1>
             </div>
 
-            <div className="flex gap-8 text-2xl">
+            <div className="flex gap-8 text-2xl font-bold">
 
                 <div>
                     <Link to="/">Home</Link>
